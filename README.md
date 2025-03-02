@@ -18,7 +18,7 @@
 2. **Extract the ZIP file** and run `setup.exe`.
 3. **Follow the installation steps** to complete the setup.
 4. Open **Download Manager** and start managing your downloads.
-
+ 
 ## 🎮 Usage
 
 1. Open the application.
